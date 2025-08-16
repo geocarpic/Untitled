@@ -1,0 +1,12 @@
+Directions: Enhancing User Experience with Audio Content. Construct a web page that effectively uses the <audio> tag to enhance the user experience with audio content.
+
+Instructions:
+Task 1: Create an HTML file named Assignment1.html.
+Task 2: Embed an audio file using the <audio> tag. Provide multiple audio sources (.mp3, .ogg, etc.) to ensure cross-browser compatibility.
+Task 3: Add descriptive text or captions next to the audio element to guide users on how to interact with the content.
+Task 4: Test the audio playback on different browsers and devices to ensure it functions correctly.
+Task 5: Style the custom controls using CSS to make them visually appealing and user-friendly.
+
+Outcomes. This exercise will provide students with hands-on experience using HTML <audio> elements to effectively play audio content, thus improving their user experience.
+
+Note: This will be checked next week during the laboratory hour.
